@@ -10,4 +10,5 @@ Sample Example For creating Extension
 7) Enable the "Developer mode" if it's not already enabled.
 8) Click on "Load unpacked" or "Load unpacked extension" (depending on the browser) and select the directory where your extension files are located.
 The extension should now be installed and displayed as a button in the browser's toolbar.
+
 9)Click on the extension button to open the popup, and when you click the "Click me!" button, the message should appear below it.
